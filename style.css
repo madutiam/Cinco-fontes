@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Ms+Madi&family=Nabla&family=Noto+Sans+JP:wght@300;400&family=Roboto&family=Roboto+Mono:ital,wght@0,200;0,300;1,200;1,400&display=swap');
+
+body{
+    background-color: #d7f4f7; 
+    text-align: center;
+}
+
+
+h1{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 50px;
+    color: #a480f2;
+}
+
+
+.serifa{
+    font-family: 'Cormorant SC', serif; 
+    font-size: 45px; 
+    color: #a480f2;
+}
+
+p.se{
+    font-family: 'Cormorant SC', serif;
+    font-size: 1.75em;
+}
+
+
+.normal{
+    font-family: 'Manrope', sans-serif;
+    font-size: 45px;
+    color: #a564d3;
+}
+
+p.nor{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.75em;
+}
+
+
+.fantasia{
+    font-family: 'Henny Penny', cursive;
+    font-size: 45px;
+    color: #1c4d53;
+}
+
+p.fan{
+    font-family: 'Bungee Spice', cursive;
+    font-size: 1.75em;
+}
+
+
+.cursiva{
+    font-family: 'Parisienne', cursive;
+    font-size: 45px;
+    color: #1c4d53;
+}
+
+p.cur{
+    font-family: 'Ms Madi', cursive;
+    font-size: 1.75em;
+}
+
+
+.monoespaço{
+    font-family: 'Xanh Mono', monospace;
+    font-size: 45px;
+    color: #366970;
+}
+
+p.mon{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1.75em;
+}
